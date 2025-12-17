@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #993C7C;
+    background-image: url("https://img.freepik.com/free-photo/christmas-background-with-gifts-baubles_1048-3438.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+}
+
+.content {
+    text-align: center;
+    font-family: "Shadows Into Light Two", cursive;
+    color: black;
+}
+
+
+img {
+    max-width: 350px;
+    height: auto;
+}
